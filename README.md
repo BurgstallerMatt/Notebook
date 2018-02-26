@@ -95,6 +95,90 @@ Two grids : forces definging the quality of object.  permeability vs persistance
 
 There are a whole series of privious actions that take place to create a model of history, their actions get lost in time if not documented 
 
+Lecture Feb 5.
+
+Not all remixes and mashes of digigital information are valid
+
+Idea of the unessay/ truthful and imformative -> (juged how compelling and effectivness)
+
+privatization scare in music and video industry during the early stages of the unternet 
+
+university funds research wich is given to private companies and sold back to university
+
+copy right laws enable power
+
+remix culture
+
+Deformance & Interpretation
+Mcgann and Samuek
+
+Always comes back to the original thing
+
+Deformed work is the end ot the means to the end
+
+topic model -> document mixed story
+
+
+Sonification -> turn 3d model into sound 
+
+Twitter bots -> tells if something is wrong right away
+
+Generative grammars -> generates inforation like mad libs
+
+Recurant Niron Generator
+
+3D scene mashup takes information and creats a new film
+
+Mesh mixer
+
+
+Feb 12 lecture
+
+Museums and 3d scanning -> fears, issues and opportunities 
+
+ties what we are doing in class to project, keep good notes
+
+module 2 -> Rremixing things
+
+mesh lab, mix models 
+
+reduce triangles or decimate the mess
+
+othe roptions for remix are sound
+
+
+museums and replications
+
+museums have long been filled with coppies eg plaster cast
+
+english replicate in gentry homes 
+
+plaster cast used in many musuems 
+
+rain erodes statues, plaster cast only record that still hold 
+
+Museums have copy right about artifacts 
+
+biggest fear about data is the misuse.
+
+
+feb 14 lecture
+
+is and act of conserving an act of care or radicle form of opression?
+
+the subject of conservation is the present 
+
+the site of intersection for ideas abiyt the past framed with in the morality and ideology of the present
+
+leak date of statue to makestatement about colonial notion of museums
+
+
+
+use vogant tools to find underlying themes of work
+
+usable for papers and research 
+
+data basic.io
 
 
 
