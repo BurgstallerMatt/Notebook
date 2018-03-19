@@ -181,5 +181,49 @@ usable for papers and research
 data basic.io
 
 
+Feb 26
+Virtual worlds of the past 
+
+3rd module emersival experiance 
+
+Humans have always been been building virtual worls
+stone henge eg
+
+Humnz tell stories and weave into landscape
+
+Chris crawford one of the first video game designers 
+
+games are virtual education functions
+
+postive possition about gaming 
+
+Gaming can have ethical componenst if they have real world consiquences
+
+Video games great for modeling environment and action/results with in
+
+Make Arg
 
 
+March 5th 
+
+Picture Bohemia , 15th century 
+
+complext time filled with mixes of differnet people
+
+Game made about this era was said to be historicaly accurat but did not portray important ethical application that many people were looking for (even though they probably would have existitid).  silence says more then anything else 
+
+March 7 
+
+Used Twine to play Game 
+
+Very fun yet sometimes aganizing 
+
+march 15 
+
+Games have different thoughts and aspects from different parts of history
+
+games dont tell true story depening on how they are played
+
+upi are the line of the story in a game
+
+Mechanics, catingency, histography, are all the same thing
