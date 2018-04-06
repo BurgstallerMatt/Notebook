@@ -37,6 +37,7 @@ Programming is forgetting paper
 
 Open notebooks on gethub
 
+
 *drawing of a folder*
 >essay.doc>essay2.doc>essayfinal.doc
 
@@ -227,3 +228,34 @@ games dont tell true story depening on how they are played
 upi are the line of the story in a game
 
 Mechanics, catingency, histography, are all the same thing
+
+Lecture march 26
+
+Final Module: bring digital world into the real world 
+
+Connect all the final projects 
+
+Shawns story at CAA
+
+sometimes archaeology is imployed for the wrong purpose 
+
+Augmented reality and its potential for teaching 
+
+Breaks in Presece are what ruin augmneted reality 
+
+Sound is underrated aplications that can have a high degree of effectivness 
+
+zombie run game
+
+
+Lecture march 28
+
+Replications take away from the orignial replicas show the story of death of the original
+
+ethical dimetions of what is being replicated 
+
+CNN and webcame niron receptors
+
+Imaginary sound scape 2 : AI creates sound of image 
+
+Generonomos, cards that generate system for turing the physical into digital 
